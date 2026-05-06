@@ -58,8 +58,8 @@ quran-ai/
 ├── README.md
 ├── data/
 │   └── holy_quran-english.csv
-├── audio/          (ignored, created at runtime)
-└── quran_ai.db     (ignored)
+├── audio/          
+└── quran_ai.db     
 
 
 🧠 How It Works (Internal)
