@@ -1,0 +1,17 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+pyttsx3>=2.90
+transformers>=4.35.0
+torch>=2.0.0
+beautifulsoup4>=4.12.0
+spacy>=3.7.0
+nltk>=3.8.0
+python-dotenv>=1.0.0
+bcrypt>=4.0.0
+pyjwt>=2.8.0
+cryptography>=41.0.0
+requests>=2.31.0
+Pillow>=10.0.0
