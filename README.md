@@ -23,7 +23,7 @@
 
 
 
-## 🛠️ Tech Stack (Simple & Powerful)
+## 🛠️ Tech Stack 
 Frontend: Streamlit
 Search: Sentence‑Transformers + FAISS
 Tafsir: T5‑small (Hugging Face)
@@ -71,7 +71,7 @@ Tafsir – T5‑small prompt → beam search → concise explanation
 
 Auth – bcrypt + JWT (Fernet) → SQLite admin table
 
-🚀 Deployment (Chinese efficiency style)
+🚀 Deployment 
 Local – just run streamlit run app.py
 
 Streamlit Cloud – add packages.txt with espeak libespeak1
